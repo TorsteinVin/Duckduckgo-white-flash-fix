@@ -1,7 +1,9 @@
 # Duckduckgo-white-flash-fix
-This super simple CSS-file fixes the very annoying sudden bright white flash that occurs in Safari on macOS, when searching Duckduckgo in a new tab, and systemwide dark mode selected. Enjoy surfing duckduckgo without burning your retinas out at night :) Here's a video of the problem: https://www.youtube.com/watch?v=YCXCjLDkcp4
+This super simple CSS-file fixes the very annoying sudden bright white flash that occurs in Safari on macOS, when searching Duckduckgo in a new tab, and systemwide dark mode selected. Enjoy surfing duckduckgo without burning your retinas out at night :) 
 
-It automatically detects if your system is set to Dark or Light-mode, and changes the background of Safari accordingly, either to dark/charcoal or white respectively. 
+Here's a video of the problem: https://www.youtube.com/watch?v=YCXCjLDkcp4
+
+The CSS-file automatically detects if macOS system is set to Dark or Light-mode, and changes the background of Safari accordingly, either to dark/charcoal or white respectively. That way you won't get blinded by a white flash in dark mode, but you also don't have to look at a sudden black flash when in light mode. 
 
 HOW TO INSTALL
 
