@@ -13,3 +13,6 @@ HOW TO INSTALL
 - Quit Safari and re-open. It should now work :) 
 - **Don't delete the CSS-file after import, as it will dissappear from Safari if you do so**
 
+Known issues:
+- It's not specific to duckduckgo, and colors every webpage that hasn't defined a specific backgorund-color for body to be colored either black or white. This obviously breaks some websites. If you know how to fix that, please contact me :)
+- 
