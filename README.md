@@ -9,22 +9,5 @@ HOW TO INSTALL
 - Save the stylesheet somewhere safe, ie you documents folder
 - Open Safari > Settings > Advanced >Stylesheet and choose this css-file
 - Quit Safari and re-open. It should now work :) 
-- **Don't delete the CSS-file after import, as it will dissappear from Safari if you do so**********
-
-If you'd rather want to make your own CSS-file instead of downloading and importing from a stranger like me, here's the code:
-
-
-
-
-@media (prefers-color-scheme: dark) {
-  body {
-  background-color: #161616;
-}
-}
- 
-@media (prefers-color-scheme: light) {
-  body {
-  background-color: #FFFFF;
-}
-}
+- **Don't delete the CSS-file after import, as it will dissappear from Safari if you do so**
 
