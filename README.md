@@ -15,4 +15,4 @@ HOW TO INSTALL
 
 Known issues:
 - It's not specific to duckduckgo, and colors every webpage that hasn't defined a specific backgorund-color for body to be colored either black or white. This obviously breaks some websites. If you know how to fix that, please contact me :)
-- 
+
